@@ -1,0 +1,4 @@
+print("Welcome to the Groovy Band Name Generator.")
+street = input("which street did you grow up on?\n")
+pet = input("what is the name of a pet? \n")
+print("Your groovy band name could be " + street + " Grooovy " + pet)
